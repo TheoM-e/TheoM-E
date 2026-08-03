@@ -1,5 +1,4 @@
 # Hi there 👋
-https://gh-stats-9j41cai30-theom-es-projects.vercel.app
 [![stats](https://gh-stats-9j41cai30-theom-es-projects.vercel.app/api?username=TheoM-e&show_icons=true&count_private=true&include_all_commits=true&theme=nord&hide=contribs&border_radius=15&show_owner=true)](https://github.com/TheoM-e/)<br />
 [![GitHub Streak](https://github-readme-streak-stats-olive-eight-94.vercel.app?user=TheoM-e&theme=nord&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=470)](https://github.com/TheoM-e)
 
