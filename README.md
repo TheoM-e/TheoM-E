@@ -10,14 +10,14 @@
 ## My projects
 
 <a href="https://github.com/TheoM-e/SuperCalc">
-  <img align="center" src="https://github-readme-stats-nine-tau-54.vercel.app/api/pin/?username=TheoM-e&repo=SuperCalc&show_owner=true&theme=nord&border_radius=15" />
+  <img align="center" src="https://gh-stats-new-frontend.vercel.app/api/pin/?username=TheoM-e&repo=SuperCalc&show_owner=true&theme=nord&border_radius=15" />
 </a>
 <a href="https://github.com/TheoM-e/Piscine42">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Piscine42&show_owner=true&theme=nord&border_radius=15" />
+  <img align="center" src="https://gh-stats-new-frontend.vercel.app/api/pin/?username=TheoM-e&repo=Piscine42&show_owner=true&theme=nord&border_radius=15" />
 </a>
 <a href="https://github.com/TheoM-e/All-42-subject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=All-42-subject&show_owner=true&theme=nord&border_radius=15">
+  <img align="center" src="https://gh-stats-new-frontend.vercel.app/api/pin/?username=TheoM-e&repo=All-42-subject&show_owner=true&theme=nord&border_radius=15">
 </a>
 <a href="https://github.com/TheoM-e/BingoMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=BingoMC&show_owner=true&theme=nord&border_radius=15">
+  <img align="center" src="https://gh-stats-new-frontend.vercel.app/api/pin/?username=TheoM-e&repo=BingoMC&show_owner=true&theme=nord&border_radius=15">
 </a>
